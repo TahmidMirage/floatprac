@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.row{
+    width: 100%;
+    float: left;;
+}
+
+.col-6{
+    width: 100%;
+    float: left;
+}
+
+.col-6{
+    width: 50%;
+    float: left;
+}
+
+.col-4{
+    width: 33.33%;
+    float: left;
+}
+
+.header{
+    width: 100%;
+    float: left;
+    padding: 5px 0px;
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+}
+
+.header img{
+    margin-top: 10px;
+}
+
+.header .menu{
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+.header .menu li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.header .menu li a{
+    display: block;
+    margin: 0px 0px 0px 30px;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: left;
+    color: #0F2656;
+}
+
+.primarybanner{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.primarybanner h1{
+    font-size: 52px;
+    line-height: 82px;
+    color: #0F2656;
+}
+
+.primarybanner h1 span{
+    color: #008AFF;
+}
+
+.primarybanner p{
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #0F2656;
+    line-height: 1.7em;
+    text-align: center;
+  }
+
+  .primarybanner .banner-img{
+    padding: 10px 0px;
+    width: 60%;
+    height: auto;
+  }
+
+.achievements{
+    width: 100%;
+    float: left;
+    padding: 40px 0px;
+}
+
+.achievements .leftbanner{
+    width: 100%;
+    text-align: right;
+    float: left;
+    margin: 0px 0px 0px 0px;
+}
+
+.achievements .leftbanner h1{
+    color: #EF4B5D;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 1.2em;
+    margin: 0px 15px 0px 0px;
+}
+
+.achievements .leftbanner p{
+    color: #0F2656;
+    font-size: 18px;
+    line-height: 1.7em;
+    margin: 0px 15px 0px 0px;
+}
+
+.achievements .rightbanner{
+    width: 100%;
+    text-align: left;
+    float: left;
+}
+
+.achievements .rightbanner h1{
+    color: #0F2656;
+    font-size: 58px;
+    line-height: 1.2em;
+    margin: 0px 0px 0px 15px;
+}
+
+.features{
+    width: 100%;
+    float: left;
+    padding: 40px 0px;
+}
+
+.innerfeatures{
+    width: 72%;
+    float: left;
+    padding: 60px 40px;
+    margin: 20px 20px ;
+}
+
+.innerfeatures img{
+    width: 100%;
+    height: 200px;
+}
+
+.bg1{
+    background-color:#FDEBED;
+}
+
+.bg2{
+    background-color: #EBF9F4;
+}
+
+.bg3{
+    background-color: #FFF2D6;
+}
+
+.innerfeatures h1{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2em;
+    margin-top: 10px;
+}
+
+.innerfeatures p{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.7em;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    background-color: #008AFF;
+    text-align: center;
+    margin: 40px 0px 0px;
+    padding: 20px 0px;
+    color: #5CAEF8;
+    font-size: 16px;
+}
+
+.footer span{
+    color: #eee;
+}
+
+/* * {
+    outline: 1px solid #f00 !important;
+  } */
